@@ -60,5 +60,5 @@ I enjoy working with backend architectures, modern frontend frameworks, and expl
 
 ## 📫 Get in touch
 
-- 💼 LinkedIn: https://www.linkedin.com/in/daniel-fariña-1860a73b5/
+- 💼 LinkedIn: https://www.linkedin.com/in/farina-daniel/
 - 📧 Email: danifari165@gmail.com
